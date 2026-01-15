@@ -27,6 +27,15 @@
     "status": "Incomplete"
   },
   {
+    "exercise_name": "link-me",
+    "started_at": 1768492459.763089,
+    "completed_at": 1768492462.584513,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1768382015.194623,
     "completed_at": 1768382018.572416,
@@ -42,33 +51,6 @@
     "started_at": 1768382024.34182,
     "completed_at": 1768382026.061552,
     "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1768380389.767081,
-    "completed_at": 1768380391.380639,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1768379080.659098,
-    "completed_at": 1768379082.21901,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1768379160.715107,
-    "completed_at": 1768379162.337125,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
     "status": "Completed"
   },
   {
@@ -99,11 +81,38 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1768492459.763089,
-    "completed_at": 1768492462.584513,
+    "exercise_name": "staging-intervention",
+    "started_at": 1768380389.767081,
+    "completed_at": 1768380391.380639,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768379080.659098,
+    "completed_at": 1768379082.21901,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768379160.715107,
+    "completed_at": 1768379162.337125,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1768495140.29041,
+    "completed_at": 1768495143.603102,
+    "comments": [
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   }
