@@ -217,5 +217,14 @@
       "The merge has not been undone properly."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1769184594.929385,
+    "completed_at": 1769184596.598216,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
   }
 ]
